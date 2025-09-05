@@ -1,6 +1,6 @@
 ## Ядро
 Текущая версия: ___25.8.27h2___.
-Ядро в процессе написания. 
+Ядро в процессе написания. За основу взято ядро Kernel-C ( https://github.com/Elieren/Kernel-C?tab=Apache-2.0-1-ov-file ).
 Здесь буду выкладывать исходный код.
 Собираюсь сохранить совместимость с Kernel-C ( https://github.com/Elieren/Kernel-C?tab=Apache-2.0-1-ov-file ).
 
